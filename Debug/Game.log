@@ -1,0 +1,209 @@
+﻿  src.cpp
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\vcruntime_exception.h(25): warning C4820: '__std_exception_data': '3' bytes padding added after data member '__std_exception_data::_DoFree'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xmemory0(126): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xmemory0(140): warning C4365: 'argument': conversion from 'long' to 'unsigned int', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\vcruntime_typeinfo.h(44): warning C4820: '__std_type_info_data': '3' bytes padding added after data member '__std_type_info_data::_DecoratedName'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xutility(4139): warning C4820: 'std::_Yarn<char>': '3' bytes padding added after data member 'std::_Yarn<char>::_Nul'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocinfo(227): note: see reference to class template instantiation 'std::_Yarn<char>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xutility(4139): warning C4820: 'std::_Yarn<wchar_t>': '2' bytes padding added after data member 'std::_Yarn<wchar_t>::_Nul'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocinfo(229): note: see reference to class template instantiation 'std::_Yarn<wchar_t>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(241): warning C4820: 'std::locale::_Locimp': '3' bytes padding added after data member 'std::locale::_Locimp::_Xparent'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(482): warning C4820: 'std::locale': '3' bytes padding added after base class 'std::_Crt_new_delete'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(118): warning C4365: '=': conversion from 'int' to '::size_t', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(324): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(350): warning C4571: Informational: catch(...) semantics changed since Visual C++ 7.1; structured exceptions (SEH) are no longer caught
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(800): warning C4625: 'std::codecvt_base': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(800): warning C4626: 'std::codecvt_base': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1269): warning C4625: 'std::codecvt<char16_t,char,_Mbstatet>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1269): warning C4626: 'std::codecvt<char16_t,char,_Mbstatet>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1065): warning C4365: '=': conversion from 'int' to 'unsigned long', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1067): warning C4365: '=': conversion from 'int' to 'unsigned long', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1069): warning C4365: '=': conversion from 'int' to 'unsigned long', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1071): warning C4365: '=': conversion from 'int' to 'unsigned long', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1155): warning C4365: '=': conversion from 'int' to 'unsigned long', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1159): warning C4365: '=': conversion from 'int' to 'unsigned long', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1536): warning C4625: 'std::codecvt<char32_t,char,_Mbstatet>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1536): warning C4626: 'std::codecvt<char32_t,char,_Mbstatet>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1377): warning C4365: '=': conversion from 'int' to 'unsigned long', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1379): warning C4365: '=': conversion from 'int' to 'unsigned long', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1381): warning C4365: '=': conversion from 'int' to 'unsigned long', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1383): warning C4365: '=': conversion from 'int' to 'unsigned long', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1784): warning C4625: 'std::codecvt<wchar_t,char,_Mbstatet>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1784): warning C4626: 'std::codecvt<wchar_t,char,_Mbstatet>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1628): warning C4365: 'argument': conversion from 'int' to '::size_t', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1694): warning C4365: 'argument': conversion from 'int' to '::size_t', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1723): warning C4365: 'argument': conversion from 'int' to '::size_t', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1744): warning C4365: 'argument': conversion from 'int' to '::size_t', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(2033): warning C4625: 'std::codecvt<unsigned short,char,_Mbstatet>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(2033): warning C4626: 'std::codecvt<unsigned short,char,_Mbstatet>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1877): warning C4365: 'argument': conversion from 'int' to '::size_t', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1943): warning C4365: 'argument': conversion from 'int' to '::size_t', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1972): warning C4365: 'argument': conversion from 'int' to '::size_t', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(1993): warning C4365: 'argument': conversion from 'int' to '::size_t', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(2081): warning C4625: 'std::ctype_base': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(2081): warning C4626: 'std::ctype_base': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(2543): warning C4625: 'std::ctype<char>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(2543): warning C4626: 'std::ctype<char>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(2524): warning C4365: 'argument': conversion from 'int' to '::size_t', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(2537): warning C4365: 'argument': conversion from 'int' to '::size_t', signed/unsigned mismatch
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(2764): warning C4625: 'std::ctype<wchar_t>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(2764): warning C4626: 'std::ctype<wchar_t>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(2987): warning C4625: 'std::ctype<unsigned short>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(2987): warning C4626: 'std::ctype<unsigned short>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(3032): warning C4625: 'std::ctype_byname<char>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(3032): warning C4626: 'std::ctype_byname<char>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(924): warning C4625: 'std::codecvt<char,char,_Mbstatet>': copy constructor was implicitly defined as deleted
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(3037): note: see reference to class template instantiation 'std::codecvt<char,char,_Mbstatet>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocale(924): warning C4626: 'std::codecvt<char,char,_Mbstatet>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\system_error(584): warning C4625: 'std::_Generic_error_category': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\system_error(584): warning C5026: 'std::_Generic_error_category': move constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\system_error(584): warning C4626: 'std::_Generic_error_category': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\system_error(584): warning C5027: 'std::_Generic_error_category': move assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\system_error(612): warning C4625: 'std::_Iostream_error_category': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\system_error(612): warning C5026: 'std::_Iostream_error_category': move constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\system_error(612): warning C4626: 'std::_Iostream_error_category': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\system_error(612): warning C5027: 'std::_Iostream_error_category': move assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\system_error(660): warning C4625: 'std::_System_error_category': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\system_error(660): warning C5026: 'std::_System_error_category': move constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\system_error(660): warning C4626: 'std::_System_error_category': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\system_error(660): warning C5027: 'std::_System_error_category': move assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xiosbase(646): warning C4820: 'std::ios_base': '4' bytes padding added after data member 'std::ios_base::_Ploc'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(264): warning C4820: 'std::numpunct<char>': '2' bytes padding added after data member 'std::numpunct<char>::_Kseparator'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1681): note: see reference to class template instantiation 'std::numpunct<char>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(266): warning C4625: 'std::numpunct<char>': copy constructor was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(266): warning C4626: 'std::numpunct<char>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1220): warning C4625: 'std::num_get<char,std::istreambuf_iterator<char,std::char_traits<char>>>': copy constructor was implicitly defined as deleted
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1683): note: see reference to class template instantiation 'std::num_get<char,std::istreambuf_iterator<char,std::char_traits<char>>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1220): warning C4626: 'std::num_get<char,std::istreambuf_iterator<char,std::char_traits<char>>>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1666): warning C4625: 'std::num_put<char,std::ostreambuf_iterator<char,std::char_traits<char>>>': copy constructor was implicitly defined as deleted
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1685): note: see reference to class template instantiation 'std::num_put<char,std::ostreambuf_iterator<char,std::char_traits<char>>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1666): warning C4626: 'std::num_put<char,std::ostreambuf_iterator<char,std::char_traits<char>>>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(266): warning C4625: 'std::numpunct<wchar_t>': copy constructor was implicitly defined as deleted
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1687): note: see reference to class template instantiation 'std::numpunct<wchar_t>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(266): warning C4626: 'std::numpunct<wchar_t>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1220): warning C4625: 'std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>': copy constructor was implicitly defined as deleted
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1689): note: see reference to class template instantiation 'std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1220): warning C4626: 'std::num_get<wchar_t,std::istreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1666): warning C4625: 'std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>': copy constructor was implicitly defined as deleted
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1691): note: see reference to class template instantiation 'std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\xlocnum(1666): warning C4626: 'std::num_put<wchar_t,std::ostreambuf_iterator<wchar_t,std::char_traits<wchar_t>>>': assignment operator was implicitly defined as deleted
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\ios(193): warning C4820: 'std::basic_ios<char,std::char_traits<char>>': '7' bytes padding added after data member 'std::basic_ios<char,std::char_traits<char>>::_Fillch'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\ios(199): note: see reference to class template instantiation 'std::basic_ios<char,std::char_traits<char>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\ios(193): warning C4820: 'std::basic_ios<wchar_t,std::char_traits<wchar_t>>': '6' bytes padding added after data member 'std::basic_ios<wchar_t,std::char_traits<wchar_t>>::_Fillch'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\ios(201): note: see reference to class template instantiation 'std::basic_ios<wchar_t,std::char_traits<wchar_t>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\istream(878): warning C4820: 'std::basic_istream<char,std::char_traits<char>>': '4' bytes padding added after data member 'std::basic_istream<char,std::char_traits<char>>::_Chcount'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\istream(908): note: see reference to class template instantiation 'std::basic_istream<char,std::char_traits<char>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\istream(878): warning C4820: 'std::basic_istream<wchar_t,std::char_traits<wchar_t>>': '4' bytes padding added after data member 'std::basic_istream<wchar_t,std::char_traits<wchar_t>>::_Chcount'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\istream(909): note: see reference to class template instantiation 'std::basic_istream<wchar_t,std::char_traits<wchar_t>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\istream(969): warning C4820: 'std::basic_iostream<char,std::char_traits<char>>': '4' bytes padding added after base class 'std::basic_ostream<char,std::char_traits<char>>'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\istream(974): note: see reference to class template instantiation 'std::basic_iostream<char,std::char_traits<char>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\istream(969): warning C4820: 'std::basic_iostream<char,std::char_traits<char>>': '4' bytes padding added after data member '<alignment member>'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\istream(969): warning C4820: 'std::basic_iostream<wchar_t,std::char_traits<wchar_t>>': '4' bytes padding added after base class 'std::basic_ostream<wchar_t,std::char_traits<wchar_t>>'
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\istream(975): note: see reference to class template instantiation 'std::basic_iostream<wchar_t,std::char_traits<wchar_t>>' being compiled
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\istream(969): warning C4820: 'std::basic_iostream<wchar_t,std::char_traits<wchar_t>>': '4' bytes padding added after data member '<alignment member>'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(35): warning C4820: '_timespec64': '4' bytes padding added after data member '_timespec64::tv_nsec'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\time.h(42): warning C4820: 'timespec': '4' bytes padding added after data member 'timespec::tv_nsec'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_io.h(49): warning C4820: '_finddata32i64_t': '4' bytes padding added after data member '_finddata32i64_t::name'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_io.h(54): warning C4820: '_finddata64i32_t': '4' bytes padding added after data member '_finddata64i32_t::attrib'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_io.h(64): warning C4820: '__finddata64_t': '4' bytes padding added after data member '__finddata64_t::attrib'
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\corecrt_io.h(69): warning C4820: '__finddata64_t': '4' bytes padding added after data member '__finddata64_t::name'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\packages\allegro.5.2.4.0\build\native\include\allegro5\platform\almsvc.h(26): warning C4619: #pragma warning: there is no warning number '4800'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\packages\allegro.5.2.4.0\build\native\include\allegro5\events.h(113): warning C4820: 'ALLEGRO_DISPLAY_EVENT': '4' bytes padding added after data member 'ALLEGRO_DISPLAY_EVENT::orientation'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\packages\allegro.5.2.4.0\build\native\include\allegro5\events.h(124): warning C4820: 'ALLEGRO_JOYSTICK_EVENT': '4' bytes padding added after data member 'ALLEGRO_JOYSTICK_EVENT::button'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\packages\allegro.5.2.4.0\build\native\include\allegro5\events.h(136): warning C4820: 'ALLEGRO_KEYBOARD_EVENT': '7' bytes padding added after data member 'ALLEGRO_KEYBOARD_EVENT::repeat'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\packages\allegro.5.2.4.0\build\native\include\allegro5\events.h(154): warning C4820: 'ALLEGRO_MOUSE_EVENT': '4' bytes padding added after data member 'ALLEGRO_MOUSE_EVENT::pressure'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\packages\allegro.5.2.4.0\build\native\include\allegro5\events.h(180): warning C4820: 'ALLEGRO_TOUCH_EVENT': '7' bytes padding added after data member 'ALLEGRO_TOUCH_EVENT::primary'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\packages\allegro.5.2.4.0\build\native\include\allegro5\events.h(196): warning C4820: 'ALLEGRO_USER_EVENT': '4' bytes padding added after data member 'ALLEGRO_USER_EVENT::data4'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\packages\allegro.5.2.4.0\build\native\include\allegro5\touch_input.h(59): warning C4820: 'ALLEGRO_TOUCH_STATE': '3' bytes padding added after data member 'ALLEGRO_TOUCH_STATE::primary'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\soundhandler.h(56): warning C4820: 'SoundHandler': '4' bytes padding added after data member 'SoundHandler::sounds'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\soundhandler.h(56): warning C4626: 'SoundHandler': assignment operator was implicitly defined as deleted
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\packages\allegro.5.2.4.0\build\native\include\allegro5\allegro_native_dialog.h(53): warning C4820: 'ALLEGRO_MENU_INFO': '2' bytes padding added after data member 'ALLEGRO_MENU_INFO::id'
+c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\algorithm(2268): warning C4365: 'return': conversion from 'int' to 'std::_Rand_urng_from_func::result_type', signed/unsigned mismatch
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\point.h(24): warning C4458: declaration of 'x' hides class member
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\point.h(7): note: see declaration of 'Point::x'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\point.h(28): warning C4458: declaration of 'y' hides class member
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\point.h(8): note: see declaration of 'Point::y'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\point.h(32): warning C4458: declaration of 'x' hides class member
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\point.h(7): note: see declaration of 'Point::x'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\point.h(36): warning C4458: declaration of 'y' hides class member
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\point.h(8): note: see declaration of 'Point::y'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\rectangle.h(59): warning C4458: declaration of 'origin' hides class member
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\rectangle.h(9): note: see declaration of 'Rectangle::origin'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(16): error C2065: 'Playable': undeclared identifier
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(16): error C2059: syntax error: '>'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(16): error C2976: 'std::vector': too few template arguments
+  c:\program files (x86)\microsoft visual studio\2017\enterprise\vc\tools\msvc\14.13.26128\include\vector(662): note: see declaration of 'std::vector'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(28): error C2061: syntax error: identifier 'Playable'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(20): error C2065: 'Playable': undeclared identifier
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(20): error C2065: 'enemy': undeclared identifier
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(20): error C2143: syntax error: missing ';' before ':'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(20): error C2143: syntax error: missing ';' before ')'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(20): error C2451: conditional expression of type 'std::vector' is illegal
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(20): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(22): error C2065: 'enemy': undeclared identifier
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(22): error C2227: left of '->getHitbox' must point to class/struct/union/generic type
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(22): note: type is 'unknown-type'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\projectile.h(24): error C2065: 'enemy': undeclared identifier
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\item.h(10): warning C4820: 'Item': '4' bytes padding added after data member 'Item::ammo'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\item.h(12): error C2061: syntax error: identifier 'Playable'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(8): error C2061: syntax error: identifier 'Playable'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(9): error C2061: syntax error: identifier 'Playable'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\playable.h(34): error C2660: 'IController::getInputFlags': function does not take 2 arguments
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\playable.h(35): error C2660: 'IController::getTarget': function does not take 2 arguments
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\ai.h(29): warning C4263: 'const unsigned short AI::getInputFlags(Playable *,std::vector<Playable *,std::allocator<_Ty>>)': member function does not override any base class virtual member function
+          with
+          [
+              _Ty=Playable *
+          ]
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\ai.h(56): warning C4264: 'const unsigned short IController::getInputFlags(void)': no override available for virtual member function from base 'IController'; function is hidden
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(8): note: see declaration of 'IController::getInputFlags'
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(6): note: see declaration of 'IController'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\ai.h(51): warning C4263: 'Point *AI::getTarget(Playable *,std::vector<Playable *,std::allocator<_Ty>>)': member function does not override any base class virtual member function
+          with
+          [
+              _Ty=Playable *
+          ]
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\ai.h(56): warning C4264: 'Point *IController::getTarget(void)': no override available for virtual member function from base 'IController'; function is hidden
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(9): note: see declaration of 'IController::getTarget'
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(6): note: see declaration of 'IController'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\crab.h(21): error C2259: 'AI': cannot instantiate abstract class
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\crab.h(21): note: due to following members:
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\crab.h(21): note: 'const unsigned short IController::getInputFlags(void)': is abstract
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(8): note: see declaration of 'IController::getInputFlags'
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\crab.h(21): note: 'Point *IController::getTarget(void)': is abstract
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(9): note: see declaration of 'IController::getTarget'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\inputhandler.h(20): warning C4263: 'const unsigned short InputHandler::getInputFlags(Playable *,std::vector<Playable *,std::allocator<_Ty>>)': member function does not override any base class virtual member function
+          with
+          [
+              _Ty=Playable *
+          ]
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\inputhandler.h(62): warning C4264: 'const unsigned short IController::getInputFlags(void)': no override available for virtual member function from base 'IController'; function is hidden
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(8): note: see declaration of 'IController::getInputFlags'
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(6): note: see declaration of 'IController'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\inputhandler.h(46): warning C4263: 'Point *InputHandler::getTarget(Playable *,std::vector<Playable *,std::allocator<_Ty>>)': member function does not override any base class virtual member function
+          with
+          [
+              _Ty=Playable *
+          ]
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\inputhandler.h(62): warning C4264: 'Point *IController::getTarget(void)': no override available for virtual member function from base 'IController'; function is hidden
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(9): note: see declaration of 'IController::getTarget'
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(6): note: see declaration of 'IController'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\startingplayer.h(10): error C2259: 'InputHandler': cannot instantiate abstract class
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\startingplayer.h(10): note: due to following members:
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\startingplayer.h(10): note: 'const unsigned short IController::getInputFlags(void)': is abstract
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(8): note: see declaration of 'IController::getInputFlags'
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\startingplayer.h(10): note: 'Point *IController::getTarget(void)': is abstract
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\icontroller.h(9): note: see declaration of 'IController::getTarget'
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\game.h(50): error C2664: 'void Projectile::update(std::vector,double)': cannot convert argument 1 from 'std::vector<Playable *,std::allocator<_Ty>>' to 'std::vector'
+          with
+          [
+              _Ty=Playable *
+          ]
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\game.h(50): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\game.h(54): error C2664: 'void Projectile::update(std::vector,double)': cannot convert argument 1 from 'std::vector<Playable *,std::allocator<_Ty>>' to 'std::vector'
+          with
+          [
+              _Ty=Playable *
+          ]
+  c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\game.h(54): note: No user-defined-conversion operator available that can perform this conversion, or the operator cannot be called
+c:\users\mwilker\google drive\freshman year semester 2\computer science 2\game\src.cpp(4): warning C4365: 'argument': conversion from 'time_t' to 'unsigned int', signed/unsigned mismatch
